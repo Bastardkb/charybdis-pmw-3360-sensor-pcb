@@ -117,7 +117,9 @@
         "min_via_diameter": 0.39999999999999997
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.25,
+        1.54
       ],
       "via_dimensions": [
         {

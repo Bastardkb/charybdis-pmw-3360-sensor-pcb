@@ -1456,7 +1456,7 @@
     (uuid de77a70e-3f5f-4614-bd27-9a721aeeccc3)
     (property "Reference" "U1" (id 0) (at 193.675 17.78 0))
     (property "Value" "MCP1811" (id 1) (at 193.675 20.32 0))
-    (property "Footprint" "" (id 2) (at 191.77 19.685 0)
+    (property "Footprint" "Package_TO_SOT_SMD:TSOT-23_HandSoldering" (id 2) (at 191.77 19.685 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "MCP1811AT-033/TT" (id 3) (at 191.77 19.685 0)
@@ -1475,7 +1475,7 @@
     (uuid 1e051011-5ce6-4ca8-b6ca-e1433fa796f6)
     (property "Reference" "U2" (id 0) (at 193.675 43.815 0))
     (property "Value" "MCP1811" (id 1) (at 193.675 46.355 0))
-    (property "Footprint" "" (id 2) (at 191.77 45.72 0)
+    (property "Footprint" "Package_TO_SOT_SMD:TSOT-23_HandSoldering" (id 2) (at 191.77 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "MCP1811AT-033/TT" (id 3) (at 191.77 45.72 0)
@@ -1611,10 +1611,10 @@
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/de77a70e-3f5f-4614-bd27-9a721aeeccc3"
-      (reference "U1") (unit 1) (value "MCP1811") (footprint "")
+      (reference "U1") (unit 1) (value "MCP1811") (footprint "Package_TO_SOT_SMD:TSOT-23_HandSoldering")
     )
     (path "/1e051011-5ce6-4ca8-b6ca-e1433fa796f6"
-      (reference "U2") (unit 1) (value "MCP1811") (footprint "")
+      (reference "U2") (unit 1) (value "MCP1811") (footprint "Package_TO_SOT_SMD:TSOT-23_HandSoldering")
     )
     (path "/30928f1d-8736-4b6b-aa38-83729ec02617"
       (reference "U3") (unit 1) (value "HEF4104BT") (footprint "local:HEF4104BT")

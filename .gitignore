@@ -8,11 +8,13 @@
 *.kicad_pcb-bak
 *.sch-bak
 *~
-_autosave-*
+sensor/_autosave-*
 *.tmp
 *-save.pro
-*-save.kicad_pcb
-fp-info-cache
+sensor/*-save.kicad_pcb
+sensor/fp-info-cache
+sensor/sensor-backups
+sensor/sensor-backups/*
 
 # Netlist files (exported from Eeschema)
 *.net

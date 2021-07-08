@@ -26,3 +26,6 @@ sensor/sensor-backups/*
 # Exported BOM files
 *.xml
 *.csv
+
+
+sensor/gerber

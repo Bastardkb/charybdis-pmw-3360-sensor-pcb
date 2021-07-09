@@ -1499,7 +1499,7 @@
   (gr_text "GND" (at 96.992286 104.18) (layer "B.SilkS") (tstamp 49fd5a08-5f79-4b20-a887-2fe9458de35f)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify mirror))
   )
-  (gr_text "rev 1.2" (at 86.032 99.84) (layer "B.SilkS") (tstamp 5322c69c-c11a-4618-b72a-364c860eb10c)
+  (gr_text "rev 1.3" (at 86.032 99.84) (layer "B.SilkS") (tstamp 5322c69c-c11a-4618-b72a-364c860eb10c)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify mirror))
   )
   (gr_text "SS" (at 97.420857 114.26) (layer "B.SilkS") (tstamp a7ce2750-aa90-4cd9-b440-c7671bbe0a00)

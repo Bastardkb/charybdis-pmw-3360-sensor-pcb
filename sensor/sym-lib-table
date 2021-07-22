@@ -2,4 +2,5 @@
   (lib (name "sensor-rescue")(type "Legacy")(uri "${KIPRJMOD}/lib/sensor-rescue.lib")(options "")(descr ""))
   (lib (name "SW-Microchip")(type "Legacy")(uri "${KIPRJMOD}/lib/SW-Microchip.lib")(options "")(descr ""))
   (lib (name "HEF4104BT")(type "Legacy")(uri "${KIPRJMOD}/lib/HEF4104BT.lib")(options "")(descr ""))
+  (lib (name "TXS0104EDR")(type "Legacy")(uri "${KIPRJMOD}/lib/TXS0104EDR.lib")(options "")(descr ""))
 )

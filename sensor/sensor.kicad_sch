@@ -512,6 +512,7 @@
     )
   )
 
+
   (junction (at 66.04 46.99) (diameter 1.016) (color 0 0 0 0))
   (junction (at 170.18 26.035) (diameter 1.016) (color 0 0 0 0))
   (junction (at 170.18 52.07) (diameter 1.016) (color 0 0 0 0))
@@ -955,7 +956,7 @@
   (symbol (lib_id "power:GND") (at 114.935 122.555 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ca09213f-d4b6-4df0-a1f3-49ec450f29f4)
-    (property "Reference" "#PWR?" (id 0) (at 114.935 128.905 0)
+    (property "Reference" "#PWR0101" (id 0) (at 114.935 128.905 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 114.808 126.9492 0))
@@ -1244,9 +1245,9 @@
   (symbol (lib_id "TXS0104EDR:TXS0104EDR") (at 97.155 109.855 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4026f42e-812c-409a-8bac-a64e470e4c65)
-    (property "Reference" "U?" (id 0) (at 97.79 89.535 0))
+    (property "Reference" "U4" (id 0) (at 97.79 89.535 0))
     (property "Value" "TXS0104EDR" (id 1) (at 97.79 92.075 0))
-    (property "Footprint" "SOIC127P600X175-14N" (id 2) (at 97.155 109.855 0)
+    (property "Footprint" "local:SOIC127P600X175-14N" (id 2) (at 97.155 109.855 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 97.155 109.855 0)
@@ -1293,7 +1294,7 @@
       (reference "#PWR05") (unit 1) (value "GND") (footprint "")
     )
     (path "/ca09213f-d4b6-4df0-a1f3-49ec450f29f4"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/46d88b4a-07a4-4b30-88a3-4ea6d0173128"
       (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -1326,7 +1327,7 @@
       (reference "U3") (unit 1) (value "XC6206PxxxMR") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
     )
     (path "/4026f42e-812c-409a-8bac-a64e470e4c65"
-      (reference "U?") (unit 1) (value "TXS0104EDR") (footprint "SOIC127P600X175-14N")
+      (reference "U4") (unit 1) (value "TXS0104EDR") (footprint "local:SOIC127P600X175-14N")
     )
   )
 )

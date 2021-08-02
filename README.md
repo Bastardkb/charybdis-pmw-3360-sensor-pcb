@@ -1,12 +1,12 @@
-# charybdis-pmw-sensor
+# PMW3360 sensor PCB
 
-A PCB for the PMW3360 sensor
+A PCB for the PMW3360 sensor. Designed for the Charybdis keyboard, can be used in other projects.
 
 ![](pics/1.jpg)
 
 ## Features
 
-- Uses a 2.54mm connector
+- Uses a 2.54mm spaced tht connector
 - components chosen to be easy to handsolder
 - M3 screw holes
 - potato 

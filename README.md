@@ -2,6 +2,8 @@
 
 A PCB for the PMW3360 sensor
 
+![](pics/1.jpg)
+
 ## Features
 
 - Uses a 2.54mm connector

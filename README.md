@@ -25,8 +25,9 @@ A PCB for the PMW3360 sensor. Designed for the Charybdis keyboard, can be used i
 | TXS0104EDR  | Level shifter  |  | 1 |
 | PMW3360  | Sensor  |  | 1 |
 
+# Schematic
 
-
+![](pics/sensor.png)
 
 
 # License

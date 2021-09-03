@@ -32,3 +32,5 @@ flex/flex-backups
 flex/flex-backups/*
 
 # Project specific files
+sensor/sensor-backups
+sensor/sensor-backups/*

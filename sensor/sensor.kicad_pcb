@@ -1633,7 +1633,7 @@
   (gr_text "40k" (at 88.95 92.95) (layer "B.SilkS") (tstamp 82bad562-aa6e-4b1c-a302-b236839f3842)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify mirror))
   )
-  (gr_text "2.2V" (at 88.967857 101.05) (layer "B.SilkS") (tstamp 8521a01f-6166-4042-a4f7-a0f00e70477e)
+  (gr_text "2V" (at 89.425 101.1) (layer "B.SilkS") (tstamp 8521a01f-6166-4042-a4f7-a0f00e70477e)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify mirror))
   )
   (gr_text "GND" (at 96.214286 102.15) (layer "B.SilkS") (tstamp 9dabf76e-30ee-4d7c-8cf8-034292ea0b0c)

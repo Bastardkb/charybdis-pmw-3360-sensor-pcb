@@ -1520,6 +1520,8 @@
 
   (gr_circle (center 76.24 118.43) (end 76.761536 118.43) (layer "B.SilkS") (width 0.3) (fill none) (tstamp 4352108e-e409-4ca7-957c-ef70ad2d950a))
   (gr_rect (start 69.05 103.75) (end 71.15 104.55) (layer "B.SilkS") (width 0.12) (fill solid) (tstamp 895f7a1e-ab98-4bf7-a169-d578205a8374))
+  (gr_rect (start 91.3 112) (end 93.15 116.85) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 862b0fc9-cf06-4509-9ce9-af50eae63adc))
+  (gr_circle (center 92.15 109.65) (end 93.283578 109.65) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp ebed6e96-87e8-4adc-8ff9-224b7ec6beed))
   (gr_circle (center 81.649946 110.6) (end 103.05 110.55) (layer "Dwgs.User") (width 0.05) (fill none) (tstamp a76189fb-5e7d-4538-8226-4878b05f68a8))
   (gr_line (start 77.812 119.038001) (end 85.312 119.038001) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-0000608ae3a7))
   (gr_line (start 77.312 118.538001) (end 77.312 102.788001) (layer "Edge.Cuts") (width 0.1) (tstamp 00f3d42d-fa85-4bde-af7e-6c6d12d22ccb))
@@ -1569,7 +1571,7 @@
   (gr_text "GND" (at 88.42 121.01) (layer "B.SilkS") (tstamp 51cf26fd-9641-44a3-b8f9-f3c82d6a5dfc)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify mirror))
   )
-  (gr_text "REV 1.5" (at 81.6 100.4) (layer "B.SilkS") (tstamp 5322c69c-c11a-4618-b72a-364c860eb10c)
+  (gr_text "REV 1.51" (at 81.6 100.4) (layer "B.SilkS") (tstamp 5322c69c-c11a-4618-b72a-364c860eb10c)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify mirror))
   )
   (gr_text "10k" (at 89.6 110.78 90) (layer "B.SilkS") (tstamp 551d678c-1712-4f59-85bc-a3a8165c60ed)

@@ -23,7 +23,7 @@ A PCB for the PMW3360 sensor. Designed for the Charybdis keyboard, can be used i
 | IC1*       | AP7331-20WG-7     | 1      |
 | J1         | Conn_01x06_Female | 1      |
 | R1, R2*    | 10k               | 2      |
-| R3*        | 40k               | 1      |
+| R3*        | 15k               | 1      |
 | R4         | 39                | 1      |
 | U1         | XC6206P332MR      | 1      |
 | U2         | PMW3360DM-T2QU    | 1      |

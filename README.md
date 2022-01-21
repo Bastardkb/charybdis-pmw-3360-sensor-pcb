@@ -2,7 +2,7 @@
 
 A PCB for the PMW3360 sensor. Designed for the Charybdis keyboard, can be used in other projects.
 
-![](pics/1.jpg)
+![](pics/sensor2.jpg)
 
 ## Features
 

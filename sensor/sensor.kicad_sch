@@ -1570,7 +1570,7 @@
     (uuid e4992423-c00c-400b-9c97-56b5534f6b54)
     (property "Reference" "U1" (id 0) (at 190.5 18.415 0))
     (property "Value" "XC6206P332MR" (id 1) (at 190.5 20.955 0))
-    (property "Footprint" "Package_TO_SOT_SMD:TSOT-23_HandSoldering" (id 2) (at 190.5 19.685 0)
+    (property "Footprint" "Package_TO_SOT_SMD:TSOT-23" (id 2) (at 190.5 19.685 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://www.torexsemi.com/file/xc6206/XC6206.pdf" (id 3) (at 190.5 25.4 0)
@@ -1672,7 +1672,7 @@
       (reference "R4") (unit 1) (value "39") (footprint "local:R_0201_0603Metric")
     )
     (path "/e4992423-c00c-400b-9c97-56b5534f6b54"
-      (reference "U1") (unit 1) (value "XC6206P332MR") (footprint "Package_TO_SOT_SMD:TSOT-23_HandSoldering")
+      (reference "U1") (unit 1) (value "XC6206P332MR") (footprint "Package_TO_SOT_SMD:TSOT-23")
     )
     (path "/00000000-0000-0000-0000-00005f6a522a"
       (reference "U2") (unit 1) (value "PMW3360DM-T2QU") (footprint "local:DIP-16_W10.16mm")

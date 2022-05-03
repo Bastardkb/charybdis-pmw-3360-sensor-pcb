@@ -1471,7 +1471,7 @@
     (uuid bfb7f6aa-4352-4533-bc0c-704583bc0903)
     (property "Reference" "IC1" (id 0) (at 190.5 59.055 0))
     (property "Value" "AP7335-WG-7" (id 1) (at 190.5 61.595 0))
-    (property "Footprint" "local:AP7331" (id 2) (at 198.755 46.99 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (id 2) (at 198.755 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://uk.rs-online.com/web/p/products/7513083" (id 3) (at 198.755 49.53 0)
@@ -1654,7 +1654,7 @@
       (reference "C5") (unit 1) (value "1uF") (footprint "local:C_0603_1608Metric")
     )
     (path "/bfb7f6aa-4352-4533-bc0c-704583bc0903"
-      (reference "IC1") (unit 1) (value "AP7335-WG-7") (footprint "local:AP7331")
+      (reference "IC1") (unit 1) (value "AP7335-WG-7") (footprint "Package_TO_SOT_SMD:SOT-23-5_HandSoldering")
     )
     (path "/0922a3c8-a19b-4135-923f-eae099d3f06d"
       (reference "J1") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")

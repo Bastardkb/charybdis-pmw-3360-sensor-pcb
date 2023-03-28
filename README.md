@@ -48,7 +48,7 @@ All components on 1206 package.
 # Component placement for the assembled version
 
 
-![](pics/placement.png)
+![](pics/placement.PNG)
 
 
 # License

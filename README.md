@@ -11,6 +11,11 @@ A PCB for the PMW3360 sensor. Designed for the Charybdis keyboard, can be used i
 - M3 screw holes
 - potato 
 
+There are 2 versions :
+
+- DIY (1.51), for self assembly. You will need to order the components below
+- Assembled (1.6+, grab the latest stable release). For assembly at JLC, order with gerber and POS, BOM file
+
 # BOM
 
 
@@ -39,6 +44,11 @@ All components on 1206 package.
 # Schematic
 
 ![](pics/sensor.png)
+
+# Component placement for the assembled version
+
+
+![](pics/placement.png)
 
 
 # License

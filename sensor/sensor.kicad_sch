@@ -864,6 +864,7 @@
     )
   )
 
+
   (junction (at 172.085 113.665) (diameter 1.016) (color 0 0 0 0)
     (uuid 1e1b062d-fad0-427c-a622-c5b8a80b5268)
   )
@@ -1702,7 +1703,7 @@
     (property "Value" "TXS0104EDR" (at 97.79 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DFN_QFN:Texas_S-PVQFN-N14_ThermalVias" (at 97.155 109.855 0)
+    (property "Footprint" "local:PVQFN-N14_ThermalVias" (at 97.155 109.855 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at 97.155 109.855 0)

@@ -117,7 +117,7 @@
     (property "ki_description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)")
     (property "ki_keywords" "connector")
     (path "/0922a3c8-a19b-4135-923f-eae099d3f06d")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J1001" (at 0 -2.33) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d17124f6-d0ff-4722-9dc9-32bb4c20adf7)
@@ -171,7 +171,7 @@
     (property "Sheetfile" "sensor.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005f6a522a")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "U1001" (at 3.39 2.76 180) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7023fc35-8454-43a5-82ac-d4e79836b807)

@@ -4,19 +4,25 @@ A PCB for the PMW3360 sensor. Designed for the Charybdis keyboard, can be used i
 
 ![](pics/sensor2.jpg)
 
-## Features
+
+# Important notice
+
+**There are 2 versions of the PCB available in the release section:**
+- DIY, meant for hand assembly
+- PCBA, meant for factory assembly
+
+If you're going to assemble the components yourself, **make sure to use the DIY version**.
+
+# Features
 
 - Uses a 2.54mm spaced tht connector
 - components chosen to be easy to handsolder
 - M3 screw holes
 - potato 
 
-There are 2 versions :
-
-- DIY (1.51), for self assembly. You will need to order the components below
-- Assembled (1.6+, grab the latest stable release). For assembly at JLC, order with gerber and POS, BOM file
-
 # BOM
+
+This BOM is for the **DIY version**. If you're using the PCBA version, use the files from the latest PCBA release.
 
 
 | Designator | Name              | Amount |
@@ -46,7 +52,6 @@ All components on 1206 package.
 ![](pics/sensor.png)
 
 # Component placement for the assembled version
-
 
 ![](pics/placement.PNG)
 

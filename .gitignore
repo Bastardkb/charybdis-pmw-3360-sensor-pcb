@@ -34,3 +34,4 @@ flex/flex-backups/*
 # Project specific files
 sensor/sensor-backups
 sensor/sensor-backups/*
+sensor/~sensor.kicad_sch.lck

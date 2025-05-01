@@ -3781,7 +3781,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "077aef91-0fc4-4bfa-96aa-10ab9160ab05")
 		(property "Reference" "H1002"
 			(at 240.03 19.05 0)
@@ -4352,6 +4352,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C479750"
+			(at 257.81 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5216,7 +5224,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fee860c2-36e6-41d9-9a32-a499f21b8295")
 		(property "Reference" "H1001"
 			(at 233.68 19.05 0)
